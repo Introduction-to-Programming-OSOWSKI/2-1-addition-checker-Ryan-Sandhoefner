@@ -1,7 +1,8 @@
 #define function
 def addCheck(x,y,z):
     if (x + y == z):
-        return("true")
+        return(true)
 
     else:
-        return("false")
+        return(false)
+
